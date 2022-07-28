@@ -18,7 +18,7 @@
 - 🤝If you have something to discuss with me, please cotact me **https://join.skype.com/invite/vcfKGjbtNEgp**
 
 <br>
-
+<!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dreamboat999/" target="blank"><img align="center"
@@ -31,7 +31,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg"
       alt="dreamboat999" height="30" width="40" /></a> 
 </p>
-
+---!>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
