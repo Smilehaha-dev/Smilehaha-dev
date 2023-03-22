@@ -99,18 +99,18 @@ I have a bachelor's degree in **Computer Science**.
 <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamboat999&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
 </p>
 <p align="center">
-  <a href="https://github.com/0xsmart-dev?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Smilehaha-dev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dreamboat999"/></a>
-  <a href="https://github.com/0xsmart-dev?tab=followers">
+  <a href="https://github.com/Smilehaha-dev?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dreamboat999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/0xsmart-dev">
+  <a href="https://github.com/Smilehaha-dev">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=dreamboat999&style=for-the-badge&logo=GitHub"/></a>
 </p>
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0xhayate)
-[![twitter](https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dustin_hayate)
+[![linkedin](https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Smilehaha)
+[![twitter](https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucas_clark)
 [![facebook](https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088285220627)
 
 </p>
